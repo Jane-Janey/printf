@@ -1,1 +1,1 @@
-My first group project
+Group Project
